@@ -90,7 +90,7 @@ Basics of observability in DevOps
 
 This project is inspired by the learning path from:
 
-👉 https://roadmap.sh/devops
+👉 [https://roadmap.sh/devops](https://roadmap.sh/projects/simple-monitoring-dashboard)
 
 💡 Future Improvements
 Add Docker-based Netdata setup
